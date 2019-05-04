@@ -1,0 +1,10 @@
+C:\Users\Kyle Janka\source\repos\MethodsAKyleJanka\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Kyle Janka\source\repos\MethodsAKyleJanka\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kyle Janka\source\repos\MethodsAKyleJanka\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Kyle Janka\source\repos\MethodsAKyleJanka\obj\Debug\BYOMethodWithReturnKyleJanka.csprojAssemblyReference.cache
+C:\Users\Kyle Janka\source\repos\MethodsAKyleJanka\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Kyle Janka\source\repos\MethodsAKyleJanka\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kyle Janka\source\repos\MethodsAKyleJanka\obj\Debug\BYOMethodWithReturnKyleJanka.csproj.GenerateResource.cache
+C:\Users\Kyle Janka\source\repos\MethodsAKyleJanka\obj\Debug\BYOMethodWithReturnKyleJanka.csproj.CoreCompileInputs.cache
+C:\Users\Kyle Janka\source\repos\MethodsAKyleJanka\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kyle Janka\source\repos\MethodsAKyleJanka\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kyle Janka\source\repos\FileWriterKyleJanka\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Kyle Janka\source\repos\FileWriterKyleJanka\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Kyle Janka\source\repos\FileWriterKyleJanka\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Kyle Janka\source\repos\FileWriterKyleJanka\obj\Debug\FileWriterKyleJanka.csprojAssemblyReference.cache
+C:\Users\Kyle Janka\source\repos\FileWriterKyleJanka\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Kyle Janka\source\repos\FileWriterKyleJanka\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Kyle Janka\source\repos\FileWriterKyleJanka\obj\Debug\FileWriterKyleJanka.csproj.GenerateResource.cache
+C:\Users\Kyle Janka\source\repos\FileWriterKyleJanka\obj\Debug\FileWriterKyleJanka.csproj.CoreCompileInputs.cache
+C:\Users\Kyle Janka\source\repos\FileWriterKyleJanka\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Kyle Janka\source\repos\FileWriterKyleJanka\obj\Debug\WindowsFormsApp1.pdb

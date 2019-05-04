@@ -1,0 +1,4 @@
+Kyle Janka
+File Writer
+
+I kepy running into issues when it came to displaying the new file on excel. The issue was the .ToString("c") causing the program to display the values with commas. Excel would bump the values into 2 cells wherever there was a comma. After fixing this the program worked as intended and tried multiple files.

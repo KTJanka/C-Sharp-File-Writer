@@ -1,0 +1,30 @@
+C:\Users\kylej\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kylej\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kylej\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kylej\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\kylej\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kylej\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kylej\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kylej\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kylej\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kylej\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\School\Classes\Intro to C#\HW 3\CarCostComparisonKyleJanka\bin\Debug\WindowsFormsApp1.exe.config
+E:\School\Classes\Intro to C#\HW 3\CarCostComparisonKyleJanka\bin\Debug\WindowsFormsApp1.exe
+E:\School\Classes\Intro to C#\HW 3\CarCostComparisonKyleJanka\bin\Debug\WindowsFormsApp1.pdb
+E:\School\Classes\Intro to C#\HW 3\CarCostComparisonKyleJanka\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\School\Classes\Intro to C#\HW 3\CarCostComparisonKyleJanka\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\School\Classes\Intro to C#\HW 3\CarCostComparisonKyleJanka\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\School\Classes\Intro to C#\HW 3\CarCostComparisonKyleJanka\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\School\Classes\Intro to C#\HW 3\CarCostComparisonKyleJanka\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\School\Classes\Intro to C#\HW 3\CarCostComparisonKyleJanka\obj\Debug\WindowsFormsApp1.exe
+E:\School\Classes\Intro to C#\HW 3\CarCostComparisonKyleJanka\obj\Debug\WindowsFormsApp1.pdb
+D:\School\Classes\Intro to C#\HW 3\IntroCalcProblemsKyleJanka\CarCostComparisonKyleJanka\bin\Debug\WindowsFormsApp1.exe.config
+D:\School\Classes\Intro to C#\HW 3\IntroCalcProblemsKyleJanka\CarCostComparisonKyleJanka\bin\Debug\WindowsFormsApp1.exe
+D:\School\Classes\Intro to C#\HW 3\IntroCalcProblemsKyleJanka\CarCostComparisonKyleJanka\bin\Debug\WindowsFormsApp1.pdb
+D:\School\Classes\Intro to C#\HW 3\IntroCalcProblemsKyleJanka\CarCostComparisonKyleJanka\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\School\Classes\Intro to C#\HW 3\IntroCalcProblemsKyleJanka\CarCostComparisonKyleJanka\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\School\Classes\Intro to C#\HW 3\IntroCalcProblemsKyleJanka\CarCostComparisonKyleJanka\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\School\Classes\Intro to C#\HW 3\IntroCalcProblemsKyleJanka\CarCostComparisonKyleJanka\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\School\Classes\Intro to C#\HW 3\IntroCalcProblemsKyleJanka\CarCostComparisonKyleJanka\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\School\Classes\Intro to C#\HW 3\IntroCalcProblemsKyleJanka\CarCostComparisonKyleJanka\obj\Debug\WindowsFormsApp1.exe
+D:\School\Classes\Intro to C#\HW 3\IntroCalcProblemsKyleJanka\CarCostComparisonKyleJanka\obj\Debug\WindowsFormsApp1.pdb
